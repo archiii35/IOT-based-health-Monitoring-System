@@ -42,6 +42,9 @@ Components Required:
 10)	Connecting Wires	
 11)	Breadboard
 
+Circuit Diagram:
+----------------
+
     ![image](https://github.com/user-attachments/assets/2b5d3bfe-15cb-4bb8-9d10-f323d6ef962a)
 
 
