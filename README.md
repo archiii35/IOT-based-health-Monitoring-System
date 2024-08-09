@@ -28,6 +28,8 @@ Some of the advantages are--
 Overall, IoT-based health monitoring systems are transforming healthcare by making it more proactive, efficient, and patient-centered. They bridge the gap between traditional in-person care and modern technological advances, leading to better health outcomes and enhanced quality of life.
 
 # Construction Of  Health monitoring circuit: 
+Components Required:
+--------------------- 
 1) Arduino Nano Board	
 2)	ESP8266-01 WiFi Module	
 3)	16x2 LCD Display	
