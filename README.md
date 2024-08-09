@@ -44,8 +44,9 @@ Components Required:
 
 Circuit Diagram:
 ----------------
+![image](https://github.com/user-attachments/assets/eb40f737-b9be-491e-b4f9-47e947a18d41)
 
-    ![image](https://github.com/user-attachments/assets/2b5d3bfe-15cb-4bb8-9d10-f323d6ef962a)
+   
 
 
    
