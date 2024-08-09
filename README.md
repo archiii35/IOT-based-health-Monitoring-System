@@ -26,6 +26,11 @@ Some of the advantages are--
    response times and potentially life-saving interventions.
 
 Overall, IoT-based health monitoring systems are transforming healthcare by making it more proactive, efficient, and patient-centered. They bridge the gap between traditional in-person care and modern technological advances, leading to better health outcomes and enhanced quality of life.
+
+# Construction Of  Health monitoring circuit: 
+
+
+
    
 
 
