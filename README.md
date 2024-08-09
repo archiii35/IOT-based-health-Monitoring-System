@@ -46,6 +46,9 @@ Circuit Diagram:
 ----------------
 ![image](https://github.com/user-attachments/assets/eb40f737-b9be-491e-b4f9-47e947a18d41)
 
+![image](https://github.com/user-attachments/assets/c2dedf2f-7d9d-4018-a1cb-68927860615c)
+
+
 Connections:
 ------------
 
